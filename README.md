@@ -2,6 +2,8 @@
 
 Idea: plot reward surfaces around trained models in [RL baselines zoo](https://github.com/araffin/rl-baselines-zoo)
 
+Repository contains copies of these models, so it is quite large.
+
 ### To recreate experiments
 
 The experiment data in the `vis` folder can be recreated with:
